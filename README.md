@@ -1,2 +1,2 @@
-#NeuralNetworks
-how to write number
+# NeuralNetworks
+How to write numbers
